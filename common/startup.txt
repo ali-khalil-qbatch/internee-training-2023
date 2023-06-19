@@ -1,2 +1,6 @@
 startup project
+<<<<<<< HEAD
 abc
+=======
+second line
+>>>>>>> b72b9ce57d510d384da86053fe70de1835839412

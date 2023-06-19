@@ -1,2 +1,2 @@
 startup project
-second line
+resolve conflict 2nd line

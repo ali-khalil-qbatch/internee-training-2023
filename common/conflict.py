@@ -1,3 +1,9 @@
+print("Hello what is this")
+
+for i in range(0,10):
+    print(i)
+
+    
 inp = int(input("Enter a number"))
 
 if(inp==1):

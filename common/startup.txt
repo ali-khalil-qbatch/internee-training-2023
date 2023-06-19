@@ -1,10 +1,2 @@
 startup project
-<<<<<<< HEAD
-<<<<<<< HEAD
 abc
-=======
-second line
->>>>>>> b72b9ce57d510d384da86053fe70de1835839412
-=======
-resolve conflict 2nd line
->>>>>>> 1f0e3d98dae884d9a32c41e26c2d4788b9e65799

@@ -1,10 +1,10 @@
-print("Hello what is this")
+print("Hello what is THAT!!")
 
 for i in range(0,10):
     print(i)
 
     
-inp = int(input("Enter a number"))
+inp = int(input("Enter no number"))
 
 if(inp==1):
     print("number is one")
